@@ -8,7 +8,7 @@ a {
 
 .taskbar {
     padding: 2px;
-    box-shadow: inset 1px 0 #fff;
+    box-shadow: inset 2px 0 #fff;
     display: block;
     background-color: silver;
     bottom: 0;
