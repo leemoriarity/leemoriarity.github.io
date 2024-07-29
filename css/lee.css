@@ -1,6 +1,8 @@
 body {
   background-color: #008080;
   color:#FFF;
+  font-family: Arial;
+  font-weight: 400;
 }
 a {
   color: #FFF;
@@ -43,5 +45,21 @@ a {
     border-bottom: 1px solid gray;
     box-shadow: inset 1px 1px #dfdfdf, 0px 0 #000, 1px 1px #000, 0px 0px #000;
     margin-right: 22px;
+    color: #000;
+}
+
+.system-icons {
+    float: right;
+    text-align: right;
+    padding: 0 10px;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    vertical-align: middle;
+    height: 22px;
+    line-height: 22px;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    font-family: Arial;
+    font-weight: 400;
     color: #000;
 }
