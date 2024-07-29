@@ -5,3 +5,28 @@ body {
 a {
   color: #FFF;
 }
+
+.taskbar {
+    padding: 2px;
+    box-shadow: inset 1px 0 #fff;
+    display: block;
+    background-color: silver;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-top: 1px solid #f4f4f4;
+    border-bottom: 1px solid #4e4e4e;
+    position: fixed;
+    z-index: 99999;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.start-button {
+    background-image: url('https://win98icons.alexmeub.com/images/start-button.png');
+    background-repeat: no-repeat;
+    width: 45px;
+    height: 14px;
+}
