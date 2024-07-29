@@ -52,8 +52,8 @@ a {
 
 .system-icons {
     float: right;
-    text-align: right;
-    padding: 0 10px;
+    text-align: left;
+    padding: 0px 3px;
     border-top: 1px solid gray;
     border-left: 1px solid gray;
     vertical-align: middle;
